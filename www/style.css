@@ -1,0 +1,137 @@
+html{
+	background-color: black;
+}
+
+.audiobars, .logo, .panel, .controles{
+	display: block;
+	text-align: center;
+}
+
+.controles{
+	margin-top: 1em;
+}
+
+img{
+	max-width: 100%;
+}
+
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?9d87or');
+	src:url('fonts/icomoon.eot?#iefix9d87or') format('embedded-opentype'),
+		url('fonts/icomoon.woff?9d87or') format('woff'),
+		url('fonts/icomoon.ttf?9d87or') format('truetype'),
+		url('fonts/icomoon.svg?9d87or#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	color: white;
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	font-size: 2em;
+	text-transform: none;
+	line-height: 1;
+	letter-spacing: 1em; 
+	
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-play:before {
+	content: "\e600";
+
+}
+.icon-pause:before {
+	content: "\e601";
+}
+.icon-volume-increase:before {
+	content: "\e602";
+}
+.icon-volume-decrease:before {
+	content: "\e603";
+}
+
+.page--menu-page__content {
+      background-color: #333;
+      color: white;
+    }
+
+    .menu-close,
+    .menu-close > .toolbar-button {
+      color: #999;
+    }
+
+    .menu-list,
+    .menu-item:first-child,
+    .menu-item:last-child,
+    .menu-item {
+      background-color: transparent;
+      background-image: none !important;
+      border-color: transparent;
+      color: #fff;
+    }
+
+    .menu-item {
+      padding: 0 0 0 20px;
+      line-height: 52px;
+      height: 52px;
+      text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 0px;
+    }
+
+    .menu-item:active {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    .menu-notification {
+      display: inline-block;
+      margin-top: 12px;
+      font-size: 14px;
+      height: 16px;
+      line-height: 16px;
+      min-width: 16px;
+      font-weight: 600;
+    }
+
+    .bottom-menu-list,
+    .bottom-menu-item:first-child,
+    .bottom-menu-item:last-child,
+    .bottom-menu-item {
+      border-color: #393939;
+      background-color: transparent;
+      background-image: none !important;
+      color: #ccc;
+    }
+
+    .bottom-menu-item:active {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+    a{   
+      text-decoration:none;   
+      color: #fff;
+    } 
+    a:visited { 
+      color: #fff;
+    }
+    a:hover {
+        color: #fff;
+    }
+    a:active {
+        color: #fff;
+    }
+    a:focus {
+        color: #fff;
+    }
+
+
+
+
+

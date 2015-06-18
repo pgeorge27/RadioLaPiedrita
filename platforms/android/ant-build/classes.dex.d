@@ -1,0 +1,27 @@
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes.dex : \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/BuildConfig.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/CordovaApp.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R$attr.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R$drawable.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R$integer.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R$string.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R$xml.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/classes/org/gstechnology/free/radiolapiedrita/R.class \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/dexedLibs/classes-6b8e920a17f477817250de96ee2c7144.jar \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/dexedLibs/cordova-admob-bd3619d43f1891c5338faf2870161a09.jar \
+/Users/georgeperez/Dropbox/Public/Proyectos Android/RadioLaPiedrita/platforms/android/ant-build/dexedLibs/google-play-services-6ba681538ed2f558c1cf6f76e8cdc521.jar \
